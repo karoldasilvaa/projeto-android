@@ -58,7 +58,7 @@ header > p {
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
-    margin-bottom: 20px;/*para quando diminuir a tela pra um cel dar espaço*/
+    padding-bottom: 50px;/*para quando diminuir a tela pra um cel dar espaço*/
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.322);    /*sombra no texto*/
 }
 
